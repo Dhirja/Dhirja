@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Dubey</h1>
 <h3 align="center">A passionate full stack wab developer</h3>
 
-<h3>About me: <p>I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
-</p></h3>
+<h3>About me: </h3><span>I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.</span>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirja&label=Profile%20views&color=0e75b6&style=flat" alt="dhirja" /> </p>
 
