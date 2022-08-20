@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Html,JS,React**
 
-- 📫 How to reach me **dhirajdubey@19965@gmail.com**
+- 📫 How to reach me **dhirajdubey19965@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vv-d6GgRYrJ65R6Yas_5W9vY5mDbdp0X/view?usp=sharing](https://drive.google.com/file/d/1vv-d6GgRYrJ65R6Yas_5W9vY5mDbdp0X/view?usp=sharing)
 
